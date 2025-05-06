@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/614baae1-e006-4795-8795-20d7255dd9ae)# 💫 About Me:
+# 💫 About Me:
 Hi, I'm Khanh Loc. I'm currently studying at Ho Chi Minh City University of Technology - VNUHCM.<br>I 'm a fullstack software developer.<br>I always want to learn more to improve my knowledge.
 
 
